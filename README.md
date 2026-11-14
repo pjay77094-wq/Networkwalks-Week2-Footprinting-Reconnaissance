@@ -112,7 +112,7 @@ curl -I https://networkwalks.com | tee outputs/task4-curl.txt
 
 **Evidence – Task 4**
 
-<img src="screenshoots/curl-l.png" alt="cURL HTTP response header output" width="850">
+<img src="screenshoots/curl -I.png" alt="cURL HTTP response header output" width="850">
 
 *Figure 4. HTTP response headers. Replace with your own screenshot.*
 
