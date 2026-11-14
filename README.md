@@ -58,7 +58,7 @@ whois networkwalks.com | tee outputs/task1-whois.txt
 
 **Evidence – Task 1**
 
-<img src="screenshots/task1-whois.png" alt="Kali Linux WHOIS terminal output for authorized target" width="850">
+<img src="screenshots/whois.png" alt="Kali Linux WHOIS terminal output for authorized target" width="850">
 
 *Figure 1. WHOIS query and observed registration details. Replace with your own screenshot.*
 
@@ -76,7 +76,7 @@ whatweb networkwalks.com | tee outputs/task2-whatweb.txt
 
 **Evidence – Task 2**
 
-<img src="screenshots/task2-whatweb.png" alt="WhatWeb technology fingerprint results" width="850">
+<img src="screenshots/Whatweb.png" alt="WhatWeb technology fingerprint results" width="850">
 
 *Figure 2. Web technology fingerprinting output. Replace with your own screenshot.*
 
@@ -94,7 +94,7 @@ nslookup networkwalks.com | tee outputs/task3-nslookup.txt
 
 **Evidence – Task 3**
 
-<img src="screenshots/task3-nslookup.png" alt="Nslookup domain resolution result" width="850">
+<img src="screenshots/nslookup.png" alt="Nslookup domain resolution result" width="850">
 
 *Figure 3. DNS resolution evidence. Replace with your own screenshot.*
 
@@ -112,7 +112,7 @@ curl -I https://networkwalks.com | tee outputs/task4-curl.txt
 
 **Evidence – Task 4**
 
-<img src="screenshots/task4-curl.png" alt="cURL HTTP response header output" width="850">
+<img src="screenshots/curl-l.png" alt="cURL HTTP response header output" width="850">
 
 *Figure 4. HTTP response headers. Replace with your own screenshot.*
 
@@ -130,7 +130,7 @@ wafw00f networkwalks.com | tee outputs/task5-wafw00f.txt
 
 **Evidence – Task 5**
 
-<img src="screenshots/task5-wafw00f.png" alt="WAFW00F firewall detection results" width="850">
+<img src="screenshots/wafw00f.png" alt="WAFW00F firewall detection results" width="850">
 
 *Figure 5. WAF detection output. Replace with your own screenshot.*
 
@@ -148,7 +148,7 @@ dnsrecon -d networkwalks.com | tee outputs/task6-dnsrecon.txt
 
 **Evidence – Task 6**
 
-<img src="screenshots/task6-dnsrecon.png" alt="DNSRecon DNS record enumeration results" width="850">
+<img src="screenshots/dnsrecon.png" alt="DNSRecon DNS record enumeration results" width="850">
 
 *Figure 6. DNS record enumeration. Replace with your own screenshot.*
 
